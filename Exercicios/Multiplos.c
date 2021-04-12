@@ -12,7 +12,7 @@ int main (void){
         }else{
             printf("\nNao sao Multiplos\n");
         }
-    } else{
+    }else{
         if ((x%y) == 0 ){
             printf("\nSao Multiplos\n");
         }else{
